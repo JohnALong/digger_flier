@@ -1,0 +1,12 @@
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/bin/Debug/netcoreapp3.1/interfaces.deps.json
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/bin/Debug/netcoreapp3.1/interfaces.runtimeconfig.json
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/bin/Debug/netcoreapp3.1/interfaces.runtimeconfig.dev.json
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/bin/Debug/netcoreapp3.1/interfaces.dll
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/bin/Debug/netcoreapp3.1/interfaces.pdb
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.1/interfaces.csprojAssemblyReference.cache
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.1/interfaces.csproj.CoreCompileInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.1/interfaces.AssemblyInfoInputs.cache
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.1/interfaces.AssemblyInfo.cs
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.1/interfaces.dll
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.1/interfaces.pdb
+/Users/jlcomp45/workspace/csharp/exercises/interfaces/obj/Debug/netcoreapp3.1/interfaces.genruntimeconfig.cache
